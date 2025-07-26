@@ -30,5 +30,5 @@ A Lab Booking System developed to streamline the process of reserving labs in an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/lab-booking-system.git
+git clone https://github.com/siddique-17/lab-booking-system.git
 cd lab-booking-system
